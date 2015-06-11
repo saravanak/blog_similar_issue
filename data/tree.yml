@@ -1,0 +1,6 @@
+---
+index.html.erb: "/index.html.erb"
+2012-01-01-example-article.html.markdown.erb: "/2012-01-01-example-article.html.markdown.erb"
+calendar.html.erb: "/calendar.html.erb"
+feed.xml.builder: "/feed.xml.builder"
+tag.html.erb: "/tag.html.erb"
